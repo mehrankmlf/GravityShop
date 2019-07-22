@@ -6,17 +6,17 @@ Online shopping Mobile App Project For Swfit Development
 
 # Features
 
-*login, register 
+* login, register 
 
-*user profile, Order History
+* user profile, Order History
 
-*shopping cart
+*  shopping cart
 
 *one level category
 
-*filters
+* filters
 
-*search
+* search
 
 ## technology's
 

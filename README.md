@@ -12,7 +12,7 @@ Online shopping Mobile App Project For Swfit Development
 
 *  shopping cart
 
-*one level category
+* one level category
 
 * filters
 

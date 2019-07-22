@@ -1,7 +1,7 @@
 # GravityShop
 m-commerce
 
-Online shopping Mobile App Project For Android Development
+Online shopping Mobile App Project For Swfit Development
 
 
 # Features

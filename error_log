@@ -1,0 +1,31 @@
+[30-May-2019 13:21:13 Asia/Tehran] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gravitya/public_html/Digikalaphp/category.php on line 95
+[30-May-2019 13:21:13 Asia/Tehran] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gravitya/public_html/Digikalaphp/category.php on line 95
+[30-May-2019 13:21:13 Asia/Tehran] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gravitya/public_html/Digikalaphp/category.php on line 95
+[30-May-2019 13:21:13 Asia/Tehran] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gravitya/public_html/Digikalaphp/category.php on line 95
+[04-Jul-2019 20:23:09 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/comment.php on line 13
+[04-Jul-2019 20:24:20 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/comment.php on line 13
+[04-Jul-2019 20:24:30 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/comment.php on line 13
+[06-Jul-2019 08:54:00 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/GetComment.php on line 39
+[06-Jul-2019 08:58:03 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/GetComment.php on line 37
+[06-Jul-2019 09:00:21 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/GetComment.php on line 37
+[07-Jul-2019 09:53:38 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 36
+[08-Jul-2019 13:37:46 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 53
+[08-Jul-2019 13:38:33 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 53
+[08-Jul-2019 13:38:37 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 53
+[08-Jul-2019 13:38:41 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 53
+[08-Jul-2019 13:39:39 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 53
+[08-Jul-2019 13:39:47 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 53
+[08-Jul-2019 13:40:13 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 53
+[08-Jul-2019 13:40:47 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 53
+[08-Jul-2019 15:07:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected '[' in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 73
+[08-Jul-2019 23:08:29 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_ECHO in /home/gravitya/public_html/Digikalaphp/readcomments.php on line 78
+[13-Jul-2019 20:51:49 Asia/Tehran] PHP Parse error:  syntax error, unexpected $end in /home/gravitya/public_html/Digikalaphp/showall.php on line 60
+[19-Jul-2019 13:06:22 Asia/Tehran] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/gravitya/public_html/Digikalaphp/filter.php on line 31
+[19-Jul-2019 23:35:56 Asia/Tehran] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/gravitya/public_html/Digikalaphp/filter.php on line 21
+[19-Jul-2019 23:36:32 Asia/Tehran] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/gravitya/public_html/Digikalaphp/filter.php on line 21
+[19-Jul-2019 23:36:38 Asia/Tehran] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/gravitya/public_html/Digikalaphp/filter.php on line 21
+[20-Jul-2019 09:54:54 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/filter.php on line 78
+[20-Jul-2019 09:55:12 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/filter.php on line 78
+[20-Jul-2019 09:57:10 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/filter.php on line 78
+[20-Jul-2019 09:57:12 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/filter.php on line 78
+[20-Jul-2019 09:57:16 Asia/Tehran] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/gravitya/public_html/Digikalaphp/filter.php on line 78

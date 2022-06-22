@@ -41,7 +41,6 @@ while($row = $result -> fetch(PDO::FETCH_ASSOC)) {
     $record["img_name"] = $row3["img_name"];
     
     array_push($all,$record);
-
 }
 
 echo json_encode($all);
